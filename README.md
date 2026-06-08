@@ -1,6 +1,6 @@
 # TrueMimicVoice
 
-Removes Mimic voice distortion effects while keeping radio/transmitter effects fully functional.
+Eliminates voice distortion effects for Mimics while preserving radio/transmitter voice effects.
 
 ## Features
 
