@@ -29,6 +29,10 @@ MIMESIS/Mods
 
 No configuration required. Simply install the mod and launch the game.
 
+## Building from Source
+
+If you want to build the project from source, update the reference paths in `TrueMimicVoice.csproj` to match your local MIMESIS installation.
+
 ## Author
 
 CoiriNight
